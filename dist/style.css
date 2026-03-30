@@ -1,0 +1,19 @@
+body {
+      background-color: #1a1a2e;
+      color: white;
+      font-family: Arial;
+      padding: 20px;
+    }
+
+    .titulo {
+      color: #ff6bff;
+      font-size: 36px;
+    }
+
+    .subtitulo {
+      color: #a0c4ff;
+    }
+
+    .foto {
+      width: 200px;
+    }
